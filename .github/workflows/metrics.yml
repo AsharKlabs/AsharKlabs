@@ -16,14 +16,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}   # your FG-PAT from step 3
           user: ${{ github.repository_owner }}  # or hardcode your username
           template: classic
+          filename: metrics.languages.svg
+          base: ""      
           config_timezone: Asia/Karachi
 
-          # ---- Languages plugin (MOST USED) ----
-          base: ""                  # hide the default base block
+          # Include all your repos (owner/org/collab), incl. forks if you want
+          repositories: 200
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
+
+          # --- Languages plugin: show *bars* from indepth analysis, disable "recently used" ---
           plugin_languages: yes
-          plugin_languages_indepth: yes     # clone & analyze repos for accuracy
-          plugin_languages_limit: 8         # top N languages
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used   # only the big bars
+          plugin_languages_recent_load: 0        # turn off "recently used"
+          plugin_languages_recent_days: 0        # (belt & suspenders)
+          plugin_languages_limit: 12
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: >-
-            qmake, tex, lex, gnuplot        # optional: ignore noisy langs
-          # (Other handy knobs: plugin_languages_threshold, plugin_languages_sections)
