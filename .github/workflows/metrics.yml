@@ -35,5 +35,6 @@ jobs:
           plugin_languages_sections: most-used   # only the big bars
           plugin_languages_recent_load: 0        # turn off "recently used"
           plugin_languages_recent_days: 0        # (belt & suspenders)
-          plugin_languages_limit: 12
+          plugin_languages_limit: 24          # show up to 24 instead of 8
+          plugin_languages_threshold: 0%      # don’t hide tiny languages
           plugin_languages_details: bytes-size, percentage
