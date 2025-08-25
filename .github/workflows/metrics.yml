@@ -1,0 +1,29 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 6 * * *" }]   # daily at 06:00 UTC
+  workflow_dispatch:
+  push: { branches: ["main", "master"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allow committing the generated SVG
+    steps:
+      - name: Most used languages (includes private repos)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}   # your FG-PAT from step 3
+          user: ${{ github.repository_owner }}  # or hardcode your username
+          template: classic
+          config_timezone: Asia/Karachi
+
+          # ---- Languages plugin (MOST USED) ----
+          base: ""                  # hide the default base block
+          plugin_languages: yes
+          plugin_languages_indepth: yes     # clone & analyze repos for accuracy
+          plugin_languages_limit: 8         # top N languages
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: >-
+            qmake, tex, lex, gnuplot        # optional: ignore noisy langs
+          # (Other handy knobs: plugin_languages_threshold, plugin_languages_sections)
