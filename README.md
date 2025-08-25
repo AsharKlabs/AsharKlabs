@@ -1,4 +1,7 @@
-# Hi 👋, I'm Ashar Ayub
+# Hi 👋, I'm Ashar Ayub ![Profile views](https://komarev.com/ghpvc/?username=AsharKlabs&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
 <h3 >🔧 Senior Laravel Developer | 4+ Years of Experience</h3>
 
 - 🔭 Current: Laravel, PHP, Vue, MySQL, Javascript
@@ -34,6 +37,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
 
+---
+
+## 📊 Github Metrics
+
+![Most used languages](./metrics.languages.svg?v=5)
+
+![Activity & Habits](./metrics.activity.svg)
 
 
 
