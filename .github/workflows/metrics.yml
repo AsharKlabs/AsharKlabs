@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 6 * * *" }]   # daily at 06:00 UTC
+  schedule: [{ cron: "0 6 * * *" }]
   workflow_dispatch:
   push: { branches: ["main", "master"] }
 
@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # allow committing the generated SVG
+      contents: write
     steps:
       - name: Generate Unified Metrics
         uses: lowlighter/metrics@latest
