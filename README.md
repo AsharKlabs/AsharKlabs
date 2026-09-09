@@ -55,6 +55,19 @@
 
 ---
 
+### 🏗️ System Architecture Showcase: AI-Driven Clinical Triage
+```mermaid
+graph TD
+    A[Mobile Client / Cross-Platform] -->|REST / HTTPS| B(Nginx / Ubuntu VPS)
+    B --> C{Laravel / PHP Swoole}
+    C -->|Query| D[(PostgreSQL)]
+    C -->|API Request| E[FastAPI Microservice]
+    E -->|Context Protocol| F[LLM / AI Engine]
+    F -->|Triage Score| E
+    E -->|JSON Response| C
+    C -->|WebSocket Push| A
+```
+
 <!-- ### 📊 GitHub Metrics & Activity
 
 <div align="center">
