@@ -55,11 +55,11 @@
 
 ---
 
-### 📊 GitHub Metrics & Most Used Languages
+<!-- ### 📊 GitHub Metrics & Most Used Languages
 
 <div align="center">
   <img src="metrics.svg" alt="Ashar's GitHub Metrics" />
-</div>
+</div> -->
 
 
 <!--
