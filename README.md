@@ -2,49 +2,64 @@
 
 
 
-<h3 >🔧 Senior Laravel Developer | 4+ Years of Experience</h3>
+### Lead Software Engineer & AI-Augmented Software Architect
 
-- 🔭 Current: Laravel, PHP, Vue, MySQL, Javascript
-- 💬 Ask me about: Laravel, APIs, Mobile App Development, Server Side Development, Application Deployment 
-- 📫 LinkedIn: https://www.linkedin.com/in/ashar-ayub-9604611a6/
-- 📧 Email: [asharproject24@gmail.com](mailto:asharproject24@gmail.com)
-- ⚡  Fun fact: PHP used to mean “Personal Home Page”. Today it’s a recursive acronym: “PHP: Hypertext Preprocessor”.
 
----
-
-## 🧰 Tech Stack
-
-<!-- Backend -->
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-
-<!-- Frontend & Mobile -->
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-
-<!-- Database -->
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
-
-<!-- Infra / DevOps -->
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
+- 🔭 Currently working with: Modern PHP (Laravel Octane/Swoole), AI-Augmented workflows (Cursor IDE, MCP), Python ETL pipelines, and AWS Cloud Infrastructure.
+- 💬 Ask me about: High-throughput System Architecture, LLM Integrations (FastAPI/Vector DBs), Disaster Recovery, and Cross-Platform Mobile Ecosystems.
+- 📫 LinkedIn: [linkedin.com/in/ashar-ayub-9604611a6](https://www.linkedin.com/in/ashar-ayub-9604611a6/)
+- 📧 Email: asharproject24@gmail.com
+- ⚡ Fun fact: PHP used to mean "Personal Home Page". Today it's a recursive acronym: "PHP: Hypertext Preprocessor".
 
 ---
 
-## 📊 Github Metrics
+### 🛠️ Tech Stack
 
-![Most used languages](./metrics.languages.svg?v=5)
+**Backend & Real-Time**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-![Activity & Habits](./metrics.activity.svg)
+**AI & Agentic Engineering**  
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0A85EA?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_Pipelines-10A37F?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-FF6F61?style=flat-square)
 
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend & Cross-Platform**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📌 Architectural Highlights
+- **AI-Driven Clinical Systems:** Architected FastAPI microservices embedding LLMs directly into medical workflow applications for sub-second triage.
+- **Real-Time Telemetry & Media Streaming:** Deployed custom WebSocket servers with Coturn (STUN/TURN) backbones for low-latency P2P edge streaming.
+
+---
+
+### 📊 GitHub Metrics & Most Used Languages
+
+<div align="center">
+  <img src="metrics.svg" alt="Ashar's GitHub Metrics" />
+</div>
 
 
 <!--
