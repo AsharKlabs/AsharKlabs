@@ -55,11 +55,11 @@
 
 ---
 
-### 📊 GitHub Metrics & Activity
+<!-- ### 📊 GitHub Metrics & Activity
 
 <div align="center">
   <img src="metrics.svg" alt="Ashar's GitHub Metrics" />
-</div>
+</div> -->
 
 
 <!--
