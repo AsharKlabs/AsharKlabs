@@ -2,13 +2,15 @@ name: WakaTime Status Update
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This line allows the bot to save the README
     steps:
       - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
