@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ashar Ayub ![Profile views](https://komarev.com/ghpvc/?username=AsharKlabs&label=Profile%20views&color=0e75b6&style=flat)
+# Hi 👋, I'm Ashar Ayub [![wakatime](https://wakatime.com/badge/user/27dd049c-f744-4622-9431-a2d4f4da96e1.svg)](https://wakatime.com/@27dd049c-f744-4622-9431-a2d4f4da96e1)
 
 
 
