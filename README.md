@@ -55,6 +55,13 @@
 
 ---
 
+### ⏱️ Weekly Development Breakdown
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+---
+
 ### 🏗️ System Architecture Showcase: AI-Driven Clinical Triage
 ```mermaid
 graph TD
