@@ -10,10 +10,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     permissions:
-      contents: write # This line allows the bot to save the README
+      contents: write 
     steps:
       - uses: actions/checkout@v3
-      - uses: athul/waka-readme@master
+      - name: WakaTime Readme Metrics
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -21,3 +22,5 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
+          # Explicitly target the main branch
+          BRANCH: main
