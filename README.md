@@ -1,4 +1,6 @@
-# Hi 👋, I'm Ashar Ayub [![wakatime](https://wakatime.com/badge/user/27dd049c-f744-4622-9431-a2d4f4da96e1.svg)](https://wakatime.com/@27dd049c-f744-4622-9431-a2d4f4da96e1)
+# Hi 👋, I'm Ashar Ayub 
+
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
 
 
@@ -57,8 +59,8 @@
 
 ### ⏱️ Weekly Development Breakdown
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
